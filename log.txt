@@ -1,0 +1,7 @@
+2023-08-05 10:23:45 INFO: Connection established from 192.168.0.1
+2023-08-05 11:12:30 ERROR: Invalid request from 10.0.0.1
+2023-08-05 12:45:02 INFO: User login from 172.16.254.1
+2023-08-05 13:01:15 WARNING: Exceeded bandwidth limit from 192.168.0.2
+2023-08-05 13:45:32 INFO: Connection established from 192.168.0.3
+2023-08-05 14:30:10 ERROR: Failed to authenticate from 10.0.0.2
+2023-08-05 15:15:00 INFO: User logout from 172.16.254.2
