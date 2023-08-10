@@ -16,7 +16,9 @@ The basic regex syntax covered here are the ones needed for the project.
 5. '\.' : defines a normal dot and not the regular expression ('.') that matches all character.
 
 ## Project Task
-### Use re module in python, write a python sript to find ips in a log file and extract the ips to another file 
+### 1. Use re module in python
+### 2. write a python sript to find ips in a log file
+### 3. extract the ips to another file 
 
 ## Use Case of the Regex project
 DevOps engineers are often responsible for monitoring application logs and system metrics. This project can be used to extract IP addresses from logs to analyze and troubleshoot application issues, identify abnormal traffic, or detect potential security breaches.
